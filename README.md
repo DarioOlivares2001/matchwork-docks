@@ -22,6 +22,8 @@ Diagramas que representan la estructura lógica y física del sistema.
 Documentos entregados en las etapas semanales del desarrollo del sistema.
 - `EXP2_S4_Grupo15.docx`: Diseño y planificación inicial.
 - `EXP2_S5_Grupo15.docx`: Desarrollo y funcionalidades implementadas.
+- `EXP2_S6_Grupo15.docx`: Continuando con el Desarrollo de la Solución MatchWork.
+
 - *(Aquí se irán agregando la semana 6 y la Sumativa 8)*
 
 ### `04_Mockups/`
